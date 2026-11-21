@@ -31,7 +31,7 @@ Ce projet simule une mission pour **TechNova**, une ESN (Entreprise de Services 
 ```bash
 # Cloner le projet
 git clone <url-du-repo>
-cd OC-P10-TechNova-main
+cd OC-DIA-P10-TechNova-Livrable
 
 # Installer les dépendances (avec uv)
 uv sync
